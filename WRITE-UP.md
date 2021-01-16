@@ -41,7 +41,7 @@ Advantages of Work-Life Balance:
 -Staff feeling valued and that their personal and/or family life is important.  
 -Improvements in employee mental health and well-being.  
 
-![Fig_1](wh_time_line_plot.png)
+![Fig_1](data/wh_time_line_plot.png)
 
 ### Years of Schooling vs. Average Working Hours ###
 
@@ -53,7 +53,7 @@ R-squared = 0.8592
 
 **Results:** Reject the null hypothesis. There is a strong negative relationship between years of schooling and working hours.
 
-![Fig_2](/wh_edu_scatter.png)
+![Fig_2](data/wh_edu_scatter.png)
 
 ### Chi-Square: Educational Attainment vs. Working Hours ###
 
@@ -63,7 +63,7 @@ Critical Value= 11.07
 Chi-Squared = 2.48	p-value= 0.778
 **Results:** Fail to reject the null hypothesis. There is no statistically significant difference between educational attainment and hours spent working weekends and holidays.  
 
-![Fig_3](/wh_wkdy_bar.png)
+![Fig_3](data/wh_wkdy_bar.png)
 
 
 ### Work-Life Balance: Life Expectancy (U.S.A.) ###
@@ -90,7 +90,7 @@ Unemployment refers to the share of the labor force that is without work but ava
 
 ### Mean Hrs Worked/Worker/Year vs. % of Households with Landline ###
 
-![Fig_10](/worklandline.png)
+![Fig_10](/data/worklandline.png)
 
 y=-.049x+172.963
 r=-.497
@@ -99,7 +99,7 @@ There is a weak negative correlation between working hours and the landline cove
 
 ### Mean Hrs Worked/Worker/Year vs. Deaths by Homicide/100,000 People/Year ###
 
-![Fig_11](/workmurder.png)
+![Fig_11](/data/workmurder.png)
 
 y=-.005x+16.157
 r=-.471
