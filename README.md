@@ -86,6 +86,8 @@ Unemployment refers to the share of the labor force that is without work but ava
 ![ScreenShot](/data/unemployment_rate_USA.png)
 ![ScreenShot](/data/Unemp_vs_work_hrs_linear_regression.png)
 
+**Observations:** Due the weak correlation changing the working hours doesnt affect unemployment rate
+
 
 
 
