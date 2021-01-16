@@ -30,6 +30,8 @@ We want to find out what the most important components of a good life are, how t
 **Hypothesis**  
 Every dimension of quality of life will be correlated with mean working hours/worker/year, with an r^2  >.5.
 
+**Question:** How does time spent working affect and interact with other quality of life indicators?.
+
 ### Work-Life Balance: Average Hours Spent Working (U.S.) ###
 
 Advantages of Work-Life Balance:  
@@ -39,9 +41,21 @@ Advantages of Work-Life Balance:
 -Staff feeling valued and that their personal and/or family life is important.  
 -Improvements in employee mental health and well-being.  
 
-**Question:** How does time spent working affect and interact with other quality of life indicators?.
-
 ![ScreenShot](/wh_time_line_plot.png)
+
+### Years of Schooling vs. Average Working Hours ###
+
+**Question:** Is there a relationship between years of school and working hours?
+**Null Hypothesis:** There is no relationship between years of schooling and working hours.
+
+y = -133.39x + 3474.69
+R-squared = 0.8592
+
+**Results:** Reject the null hypothesis. There is a strong negative relationship between years of schooling and working hours.
+
+![ScreenShot](/wh_edu_scatter.png)
+
+
 
 
 
