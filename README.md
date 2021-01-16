@@ -41,7 +41,7 @@ Advantages of Work-Life Balance:
 
 **Question:** How does time spent working affect and interact with other quality of life indicators?.
 
-![ScreenShot](/data/life_expectancy.png)
+![ScreenShot](/wh_time_line_plot.png)
 
 
 
