@@ -64,6 +64,7 @@ Chi-Squared = 2.48	p-value= 0.778
 **Results:** Fail to reject the null hypothesis. There is no statistically significant difference between educational attainment and hours spent working weekends and holidays.  
 
 ![Fig_3](data/wh_wkdy_bar.png)
+![Fig 12](data/wh_wknd_bar.png)
 
 
 ### Work-Life Balance: Life Expectancy (U.S.A.) ###
