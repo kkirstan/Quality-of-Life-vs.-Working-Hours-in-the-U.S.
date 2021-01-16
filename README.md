@@ -66,7 +66,7 @@ Chi-Squared = 2.48	p-value= 0.778
 ![Fig_3](/wh_wkdy_bar.png)
 
 
-## Work-Life Balance: Life Expectancy (U.S.A.) ##
+### Work-Life Balance: Life Expectancy (U.S.A.) ###
 Life expectancy is the key metric for assessing population health, it captures the mortality along the entire life course. It tells us the average age of death in a population.
 
 **Question:** Is there a relationship between working hours and Life Expectancy?
@@ -88,7 +88,7 @@ Unemployment refers to the share of the labor force that is without work but ava
 
 **Observations:** Due the weak correlation changing the working hours doesnt affect unemployment rate
 
-## Mean Hrs Worked/Worker/Year vs. % of Households with Landline ##
+### Mean Hrs Worked/Worker/Year vs. % of Households with Landline ###
 
 ![Fig_10](/worklandline.png)
 
@@ -97,7 +97,7 @@ r=-.497
 r^2=.247
 There is a weak negative correlation between working hours and the landline coverage in the U.S. It seems that only ~24.7% of any increase in the landline coverage corresponds to a decrease in the mean hours worked/year/worker.
 
-## Mean Hrs Worked/Worker/Year vs. Deaths by Homicide/100,000 People/Year ##
+### Mean Hrs Worked/Worker/Year vs. Deaths by Homicide/100,000 People/Year ###
 
 ![Fig_11](/workmurder.png)
 
@@ -106,24 +106,6 @@ r=-.471
 r^2=.222
 There is a weak negative correlation between working hours and the homicide rate in the U.S. It seems that only ~22.2% of any increase in the homicide rate corresponds to a decrease in the mean hours worked/year/worker.
 
-Conclusions
+### Conclusions ###
 As years of schooling achieved by the U.S. population have increased, the mean working hours/year have decreased. However, there is no significant correlation between one’s level of education and the chance that one will have to work weekends or on holidays. As mean working hours decrease, life expectancy, landline coverage, and homicide rate all tend to increase. However, life expectancy has a much stronger correlation with mean working hours than do the landline coverage and the homicide rate. Finally, there is a very weak negative correlation between the unemployment rate and the mean hours worked/year. 
 In short, educational attainment, life expectancy, and landline coverage are all desired things which tend to increase as the hours worked/year/worker decrease. Homicide and unemployment are the undesirable dimension of life quality which increase as hours worked decrease. From examining these variables, it seems likely that the overall quality of life improves with decreasing work hours, but the relationship is highly complex and affected by many variables which we did not consider.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
