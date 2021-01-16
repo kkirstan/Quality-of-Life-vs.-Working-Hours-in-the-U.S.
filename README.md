@@ -69,10 +69,21 @@ Chi-Squared = 2.48	p-value= 0.778
 ## Work-Life Balance: Life Expectancy (U.S.A.) ##
 Life expectancy is the key metric for assessing population health, it captures the mortality along the entire life course. It tells us the average age of death in a population.
 
-** Question: ** Is there a relationship between working hours and Life Expectancy?
+**Question:** Is there a relationship between working hours and Life Expectancy?
 
 ![ScreenShot](/data/working_hours_USA.png)
 ![ScreenShot](/data/life_expectancy.png)
+![ScreenShot](/data/life_exp_vs_work_hrs_linear_regression.png)
+
+**Observations:** We can see a strong correlation between these two but does reducing work hours increase life expectancy, we have to consider other aspects like the Fight for human rights and fair work conditions, health advances, technology advances and world organizations where they work can offer better life conditions to the entire population.
+
+## Work-Life Balance: Unemployment rate (U.S.A.) ##
+Unemployment refers to the share of the labor force that is without work but available for and seeking employment. Definitions of labor force and unemployment differ by country.
+
+**Question:** Is there a relationship between working hours and Unemployment Rate?
+
+![ScreenShot](/data/working_hours_USA.png)
+![ScreenShot](/data/unemployment_rate_USA.png)
 ![ScreenShot](/data/life_exp_vs_work_hrs_linear_regression.png)
 
 
