@@ -39,7 +39,9 @@ Advantages of Work-Life Balance:
 -Staff feeling valued and that their personal and/or family life is important.  
 -Improvements in employee mental health and well-being.  
 
-**Question:** How does time spent working affect and interact with other quality of life indicators?.  
+**Question:** How does time spent working affect and interact with other quality of life indicators?.
+
+![ScreenShot](https://raw.github.com/{smcconico}/{Project-1}/{branch})
 
 
 
