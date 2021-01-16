@@ -84,7 +84,7 @@ Unemployment refers to the share of the labor force that is without work but ava
 
 ![ScreenShot](/data/working_hours_USA.png)
 ![ScreenShot](/data/unemployment_rate_USA.png)
-![ScreenShot](/data/life_exp_vs_work_hrs_linear_regression.png)
+![ScreenShot](/data/Unemp_vs_work_hrs_linear_regression.png)
 
 
 
