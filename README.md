@@ -41,7 +41,7 @@ Advantages of Work-Life Balance:
 -Staff feeling valued and that their personal and/or family life is important.  
 -Improvements in employee mental health and well-being.  
 
-![Fig_1](/wh_time_line_plot.png)
+![Fig_1](wh_time_line_plot.png)
 
 ### Years of Schooling vs. Average Working Hours ###
 
@@ -90,7 +90,7 @@ Unemployment refers to the share of the labor force that is without work but ava
 
 ## Mean Hrs Worked/Worker/Year vs. % of Households with Landline ##
 
-![Fig_10](/data/worklandline.png)
+![Fig_10](/worklandline.png)
 
 y=-.049x+172.963
 r=-.497
@@ -99,7 +99,7 @@ There is a weak negative correlation between working hours and the landline cove
 
 ## Mean Hrs Worked/Worker/Year vs. Deaths by Homicide/100,000 People/Year ##
 
-![Fig_11](/data/workmurder.png)
+![Fig_11](/workmurder.png)
 
 y=-.005x+16.157
 r=-.471
