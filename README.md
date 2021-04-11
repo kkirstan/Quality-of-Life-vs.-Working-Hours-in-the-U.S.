@@ -1,5 +1,5 @@
 # Project-1
-Hello this is the **Project 1 Challenge** homework that corresponds to the 7th unit of the _Data Analisis bootcamp course_, on this homework we were assign to form a team and do some Data Anlysis about a common subject of interest then do a presentation in class with our own conclusions.    
+Hello, this is the **Project 1 Challenge** homework that corresponds to the 7th unit of the Data Analysis bootcamp course. On this homework, we were assign to form a team and do some Data Anlysis about a common subject of interest then do a presentation in class with our own conclusions.    
 
 Some of the project/presentation requirements we have to cover are:  
 
