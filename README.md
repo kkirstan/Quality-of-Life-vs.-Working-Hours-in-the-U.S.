@@ -1,12 +1,17 @@
-## Dimensions of Quality of Life vs. Working Hours in the U.S.A. ##  
-Over the course of this project, we aimed to find out what circumstances constitute a high quality of life, how they correlate with each other, and how well the U.S. has done at providing good lives for its people over time. We were interested in uncovering the relationships between the changes in annual working hours per worker and other dimensions of quality of life in the U.S., dating back to 1870. The dimensions of quality of life which we examined were life expectancy, access to high-speed internet, average years of educational obtainment, unemployment rate, access to recreational facilities, and rates of alcohol and drug consumption.  
+# Dimensions of Quality of Life vs. Working Hours in the U.S.A. #
+Over the course of this project, we aimed to find out what circumstances constitute a high quality of life, how they correlate with each other, and how well the U.S. has done at providing good lives for its people over time. We were interested in uncovering the relationships between the changes in annual working hours per worker and other dimensions of quality of life in the U.S., dating back to 1870. The dimensions of quality of life which we examined were life expectancy, access to high-speed internet, average years of educational obtainment, unemployment rate, access to recreational facilities, and rates of alcohol and drug consumption. 
 
-**Quality of life** is defined as the degree to which an individual is healthy, comfortable, and able to participate in everyday activities.  
+Quality of life is defined as the degree to which an individual is healthy, comfortable, and able to participate in everyday activities.  
 
-**Hypothesis**  
-Every dimension of quality of life will be correlated with mean working hours/worker/year, with an r^2  >.5.
+**How does time spent working affect and interact with other quality of life indicators?**
 
-**Question:** How does time spent working affect and interact with other quality of life indicators?.
+# Technology Used #
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- API Request
+- Jupyter Notebook
 
 ### Work-Life Balance: Average Hours Spent Working (U.S.) ###
 
